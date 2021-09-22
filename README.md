@@ -5,6 +5,6 @@ Just for fun.
 Sources from the from glibc, musl were used, ulrich drapper's ideas and some internet resources.
 The code contains links to the materials used.
 
-Run unit tests:
+Build docker image, run container, build unit tests and run unit tests:
     
     ./run_tests.sh
